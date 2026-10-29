@@ -1,0 +1,15 @@
+{
+  "name": "sparks-advertising-agency",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Native Node.js website for Sparks Advertising Agency",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "check": "node --check server.js",
+    "reset-admin": "node server.js --reset-admin-password"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

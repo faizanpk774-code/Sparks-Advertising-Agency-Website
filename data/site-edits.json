@@ -1,0 +1,67 @@
+[
+  {
+    "page": "/services",
+    "edit": {
+      "selector": "main > section:nth-of-type(3)",
+      "styles": {
+        "color": "light"
+      }
+    }
+  },
+  {
+    "page": "/services",
+    "edit": {
+      "selector": "main > section:nth-of-type(3) > div:nth-of-type(1) > h2:nth-of-type(1)",
+      "styles": {
+        "color": "dark"
+      }
+    }
+  },
+  {
+    "page": "/",
+    "edit": {
+      "selector": "main > section:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+      "styles": {}
+    }
+  },
+  {
+    "page": "/",
+    "edit": {
+      "selector": "main > section:nth-of-type(2) > h2:nth-of-type(1)",
+      "styles": {
+        "color": "dark"
+      }
+    }
+  },
+  {
+    "page": "/",
+    "edit": {
+      "selector": "main > section:nth-of-type(1)",
+      "styles": {}
+    }
+  },
+  {
+    "page": "/",
+    "edit": {
+      "selector": "main > section:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(2)",
+      "styles": {
+        "color": "orange"
+      }
+    }
+  },
+  {
+    "page": "/",
+    "edit": {
+      "selector": "main > section:nth-of-type(2)",
+      "styles": {}
+    }
+  },
+  {
+    "page": "/about",
+    "edit": {
+      "selector": "main > section:nth-of-type(2) > div:nth-of-type(2) > h2:nth-of-type(1)",
+      "html": "Ideas into impact.<br>Since 2020.",
+      "styles": {}
+    }
+  }
+]

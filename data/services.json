@@ -1,0 +1,382 @@
+[
+  {
+    "id": "fb24e334-5843-4b65-8714-b64290c6a508",
+    "slug": "website-design-development",
+    "title": "Website Design & Development",
+    "category": "Digital",
+    "summary": "Purposeful digital experiences, designed to make the next step feel effortless.",
+    "description": "From considered landing pages to full-featured websites, we bring strategy, design and development into one clear process.",
+    "benefits": [
+      "Responsive layouts built around your audience",
+      "Accessible, considered user journeys",
+      "A flexible foundation for future growth"
+    ],
+    "faqs": [
+      {
+        "question": "How do we get started?",
+        "answer": "Share a little about your goals using the enquiry form and our team can discuss a suitable next step."
+      },
+      {
+        "question": "Can the scope be tailored?",
+        "answer": "Yes. Scope and deliverables are discussed around your needs before work begins."
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "160f80e3-ae34-4832-85e8-e0db01be3563",
+    "slug": "e-commerce-development",
+    "title": "E-commerce Development",
+    "category": "Digital",
+    "summary": "A thoughtful storefront that makes browsing, choosing and buying feel natural.",
+    "description": "We shape online stores around your products and the way your customers prefer to shop, with clear information architecture and a considered checkout.",
+    "benefits": [
+      "Product-first storefront design",
+      "Responsive shopping journeys",
+      "Practical catalog and checkout planning"
+    ],
+    "faqs": [
+      {
+        "question": "How do we get started?",
+        "answer": "Share a little about your goals using the enquiry form and our team can discuss a suitable next step."
+      },
+      {
+        "question": "Can the scope be tailored?",
+        "answer": "Yes. Scope and deliverables are discussed around your needs before work begins."
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "ea34de8a-ffbd-499c-ae52-593315ae9e47",
+    "slug": "custom-software-solutions",
+    "title": "Custom Software Solutions",
+    "category": "Digital",
+    "summary": "Software shaped around the way your business actually works.",
+    "description": "We help map operational needs into clear, useful software experiences, from early product definition through interface and development planning.",
+    "benefits": [
+      "Workflow discovery and product definition",
+      "Interfaces designed for everyday use",
+      "A solution scoped to your requirements"
+    ],
+    "faqs": [
+      {
+        "question": "How do we get started?",
+        "answer": "Share a little about your goals using the enquiry form and our team can discuss a suitable next step."
+      },
+      {
+        "question": "Can the scope be tailored?",
+        "answer": "Yes. Scope and deliverables are discussed around your needs before work begins."
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "cb1afff4-0f2f-4225-b8dd-1b011ed5ecc9",
+    "slug": "erp-crm-solutions",
+    "title": "ERP & CRM Solutions",
+    "category": "Digital",
+    "summary": "Bring customer relationships and business operations into a clearer view.",
+    "description": "We help businesses plan and implement ERP and CRM experiences that make essential information easier to manage and act on.",
+    "benefits": [
+      "Process and information mapping",
+      "Role-based workflow planning",
+      "Practical implementation support"
+    ],
+    "faqs": [
+      {
+        "question": "How do we get started?",
+        "answer": "Share a little about your goals using the enquiry form and our team can discuss a suitable next step."
+      },
+      {
+        "question": "Can the scope be tailored?",
+        "answer": "Yes. Scope and deliverables are discussed around your needs before work begins."
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "2f16c8d9-a139-458a-a907-fa84c5d30f2b",
+    "slug": "pos-management-systems",
+    "title": "POS Management Systems",
+    "category": "Digital",
+    "summary": "Make the point of sale a more connected part of your business.",
+    "description": "We design POS management experiences for the real pace of retail and service environments, with clarity for teams and customers.",
+    "benefits": [
+      "Sales workflow planning",
+      "Clear operational interfaces",
+      "Requirements shaped around your business"
+    ],
+    "faqs": [
+      {
+        "question": "How do we get started?",
+        "answer": "Share a little about your goals using the enquiry form and our team can discuss a suitable next step."
+      },
+      {
+        "question": "Can the scope be tailored?",
+        "answer": "Yes. Scope and deliverables are discussed around your needs before work begins."
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "343ec01b-7f5f-40da-b538-54438a9b3b6f",
+    "slug": "graphic-design",
+    "title": "Graphic Design",
+    "category": "Creative",
+    "summary": "Distinctive visual communication with a clear point of view.",
+    "description": "From a single campaign asset to a connected suite of creative, we bring consistency and character to the way your brand shows up.",
+    "benefits": [
+      "Campaign and brand-led artwork",
+      "Consistent visual systems",
+      "Production-ready design files"
+    ],
+    "faqs": [
+      {
+        "question": "How do we get started?",
+        "answer": "Share a little about your goals using the enquiry form and our team can discuss a suitable next step."
+      },
+      {
+        "question": "Can the scope be tailored?",
+        "answer": "Yes. Scope and deliverables are discussed around your needs before work begins."
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "c14ecd24-7090-4bed-9472-9b3351189e6e",
+    "slug": "logo-design",
+    "title": "Logo Design",
+    "category": "Creative",
+    "summary": "A memorable mark built to represent what makes your brand different.",
+    "description": "We explore the visual language of your business and develop a logo direction that feels distinctive, considered and useful across real-world applications.",
+    "benefits": [
+      "Discovery and creative direction",
+      "Distinctive identity concepts",
+      "Practical brand asset delivery"
+    ],
+    "faqs": [
+      {
+        "question": "How do we get started?",
+        "answer": "Share a little about your goals using the enquiry form and our team can discuss a suitable next step."
+      },
+      {
+        "question": "Can the scope be tailored?",
+        "answer": "Yes. Scope and deliverables are discussed around your needs before work begins."
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "eaeedb12-a7ba-488e-8eed-d819555ca8bb",
+    "slug": "marketing-materials",
+    "title": "Marketing Materials",
+    "category": "Creative",
+    "summary": "Keep every touchpoint working together, from the first impression to the follow-up.",
+    "description": "We create clear, on-brand marketing materials for print and digital use, with the right hierarchy for the message and audience.",
+    "benefits": [
+      "Brochures and company profiles",
+      "Campaign collateral",
+      "Consistent brand application"
+    ],
+    "faqs": [
+      {
+        "question": "How do we get started?",
+        "answer": "Share a little about your goals using the enquiry form and our team can discuss a suitable next step."
+      },
+      {
+        "question": "Can the scope be tailored?",
+        "answer": "Yes. Scope and deliverables are discussed around your needs before work begins."
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "f4868b17-34dd-4efa-9bf4-6a2d4c373396",
+    "slug": "social-media-design",
+    "title": "Social Media Design",
+    "category": "Creative",
+    "summary": "A recognisable social presence, built one considered post at a time.",
+    "description": "We design social content systems that help your brand stay coherent across channels while giving individual campaigns room to stand out.",
+    "benefits": [
+      "Channel-ready creative formats",
+      "Reusable visual direction",
+      "Campaign and content assets"
+    ],
+    "faqs": [
+      {
+        "question": "How do we get started?",
+        "answer": "Share a little about your goals using the enquiry form and our team can discuss a suitable next step."
+      },
+      {
+        "question": "Can the scope be tailored?",
+        "answer": "Yes. Scope and deliverables are discussed around your needs before work begins."
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "42493a6b-4394-4379-b2c2-406fd04f8932",
+    "slug": "digital-marketing",
+    "title": "Digital Marketing",
+    "category": "Growth",
+    "summary": "Connect the right message with the right audience across digital channels.",
+    "description": "We help shape practical digital marketing activity around your goals, audience and available channels.",
+    "benefits": [
+      "Audience and channel planning",
+      "Campaign creative alignment",
+      "Clear activity and goal definition"
+    ],
+    "faqs": [
+      {
+        "question": "How do we get started?",
+        "answer": "Share a little about your goals using the enquiry form and our team can discuss a suitable next step."
+      },
+      {
+        "question": "Can the scope be tailored?",
+        "answer": "Yes. Scope and deliverables are discussed around your needs before work begins."
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "1b78692d-470b-4b96-b5a0-37a6ac07d60a",
+    "slug": "seo",
+    "title": "SEO",
+    "category": "Growth",
+    "summary": "Help the people looking for your work find a clearer path to it.",
+    "description": "We focus on the foundations of search visibility: useful content, clear page structure and technical considerations that support discoverability.",
+    "benefits": [
+      "Search-focused content planning",
+      "On-page structure and metadata",
+      "Technical SEO fundamentals"
+    ],
+    "faqs": [
+      {
+        "question": "How do we get started?",
+        "answer": "Share a little about your goals using the enquiry form and our team can discuss a suitable next step."
+      },
+      {
+        "question": "Can the scope be tailored?",
+        "answer": "Yes. Scope and deliverables are discussed around your needs before work begins."
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "5b0caa27-201c-4b97-9d72-6851ddebeac8",
+    "slug": "video-editing",
+    "title": "Video Editing",
+    "category": "Production",
+    "summary": "Turn raw footage into a story people want to stay with.",
+    "description": "We shape footage into focused video content, with considered pacing, graphics and delivery formats for your intended audience.",
+    "benefits": [
+      "Story-first editing",
+      "Motion graphics and titles",
+      "Formats for digital channels"
+    ],
+    "faqs": [
+      {
+        "question": "How do we get started?",
+        "answer": "Share a little about your goals using the enquiry form and our team can discuss a suitable next step."
+      },
+      {
+        "question": "Can the scope be tailored?",
+        "answer": "Yes. Scope and deliverables are discussed around your needs before work begins."
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "13031836-fe97-4f9c-a7f1-8b3cb15b8176",
+    "slug": "photo-editing",
+    "title": "Photo Editing",
+    "category": "Production",
+    "summary": "Polished imagery that feels true to the original and ready for its next use.",
+    "description": "We refine and prepare photography for campaigns, products and brand communications with a consistent, deliberate finish.",
+    "benefits": [
+      "Colour and tonal refinement",
+      "Retouching and image cleanup",
+      "Channel-ready exports"
+    ],
+    "faqs": [
+      {
+        "question": "How do we get started?",
+        "answer": "Share a little about your goals using the enquiry form and our team can discuss a suitable next step."
+      },
+      {
+        "question": "Can the scope be tailored?",
+        "answer": "Yes. Scope and deliverables are discussed around your needs before work begins."
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "1cc1a490-0938-4130-a9e8-16594764a0aa",
+    "slug": "printing-services",
+    "title": "Printing Services",
+    "category": "Production",
+    "summary": "Bring your brand into the physical world with care at every stage.",
+    "description": "We help prepare and coordinate print materials so the finished piece feels considered in hand as well as on screen.",
+    "benefits": [
+      "Print-ready artwork preparation",
+      "Materials and finish guidance",
+      "Brand-consistent production"
+    ],
+    "faqs": [
+      {
+        "question": "How do we get started?",
+        "answer": "Share a little about your goals using the enquiry form and our team can discuss a suitable next step."
+      },
+      {
+        "question": "Can the scope be tailored?",
+        "answer": "Yes. Scope and deliverables are discussed around your needs before work begins."
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "ref-branding",
+    "slug": "branding",
+    "title": "Branding",
+    "category": "Creative",
+    "summary": "Build a brand identity people can recognise and remember.",
+    "description": "We shape a clear visual identity and brand direction, from the logo and visual language to the practical assets that keep every touchpoint consistent.",
+    "benefits": ["Brand discovery and direction", "Logo and visual identity", "Consistent brand applications"],
+    "faqs": [],
+    "active": true
+  },
+  {
+    "id": "ref-ui-ux-design",
+    "slug": "ui-ux-design",
+    "title": "UI/UX Design",
+    "category": "Digital",
+    "summary": "Make digital experiences easier to understand and use.",
+    "description": "We organise content and interactions around real user needs, bringing clear information architecture and considered interface design to websites and digital products.",
+    "benefits": ["User journeys and information structure", "Interface design for mobile and desktop", "Usability-focused design decisions"],
+    "faqs": [],
+    "active": true
+  },
+  {
+    "id": "ref-communications-strategy",
+    "slug": "communications-strategy",
+    "title": "Communications Strategy",
+    "category": "Strategy",
+    "summary": "Bring a clear, consistent message to every audience and channel.",
+    "description": "We help define the communication priorities, audience and channel mix that support your brand and campaign goals.",
+    "benefits": ["Audience and message planning", "Channel and content direction", "A consistent communications approach"],
+    "faqs": [],
+    "active": true
+  },
+  {
+    "id": "ref-advertising-campaigns",
+    "slug": "advertising-campaigns",
+    "title": "Advertising Campaigns",
+    "category": "Growth",
+    "summary": "Turn a useful insight into a campaign with a clear point of view.",
+    "description": "We develop campaign concepts and creative assets for digital and traditional advertising, shaped to the audience, objective and channels involved.",
+    "benefits": ["Campaign concept and creative direction", "Digital and traditional campaign assets", "Channel-ready creative formats"],
+    "faqs": [],
+    "active": true
+  }
+]

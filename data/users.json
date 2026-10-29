@@ -1,0 +1,11 @@
+[
+  {
+    "id": "0eda0a0e-6b6c-484e-adbd-a9cca8eecbe5",
+    "name": "Muhammad Faizan",
+    "email": "admin@sparksadvert.com",
+    "role": "admin",
+    "salt": "6c1bcda1bc8017b5aa1026a8bbb137d1",
+    "createdAt": "2026-10-28T07:37:34.887Z",
+    "passwordHash": "6c584627fb6ebaa0c1ff3a84d4a06052fa94ec2393d5b8954dd20fe94c3080292222e281fbc717c525fc31efdaa2edcf33bb60f7f6a83304abb76b4f82317d97"
+  }
+]
